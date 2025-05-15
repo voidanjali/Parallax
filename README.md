@@ -17,4 +17,4 @@ This project is a simple web page that demonstrates the use of a **parallax scro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CodeDevil00/Parallax.git
+   git clone https://github.com/voidanjali/Parallax.git
